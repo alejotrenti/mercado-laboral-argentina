@@ -56,15 +56,53 @@ El estudio se centra en la evolución de los principales indicadores laborales, 
 3. Persistencia de niveles elevados de informalidad y desocupación
 4. Importante heterogeneidad temporal entre trimestres
 
-## 📊 Gráficos Principales
+## 📊 Indicadores Clave del Mercado Laboral Argentino
 
-| Gráfico                    | Descripción             | Visualización                                      |
-| -------------------------- | ----------------------- | -------------------------------------------------- |
-| Tasa de Actividad          | Evolución trimestral    | ![Actividad](images/tasa_actividad.png)            |
-| Tasa de Empleo             | Dinámica del empleo     | ![Empleo](images/tasa_empleo.png)                  |
-| Tasa de Desocupación       | Evolución del desempleo | ![Desocupación](images/tasa_desocupacion.png)      |
-| Variación Intertrimestral  | Cambios porcentuales    | ![Variación](images/variacion_intertrimestral.png) |
-| Años / Trimestres extremos | Valores atípicos        | ![Extremos](images/extremos.png)                   |
+A continuación se presentan los principales indicadores analizados, junto con su evolución temporal y los cambios observados en distintos contextos macroeconómicos.
+
+### Tasa de Actividad
+
+Evolución trimestral de la participación de la población en el mercado laboral.
+
+![Actividad](images/tasa_actividad.png)
+
+---
+
+### Tasa de Empleo
+
+Análisis de la dinámica del empleo a lo largo del período observado.
+
+![Empleo](images/tasa_empleo.png)
+
+---
+
+### Tasa de Desocupación
+
+Evolución del desempleo y detección de períodos de mayor inestabilidad.
+
+![Desocupación](images/tasa_desocupacion.png)
+
+---
+
+### Variación Intertrimestral
+
+Cambios porcentuales entre trimestres consecutivos para identificar aceleraciones o desaceleraciones.
+
+![Variación](images/variacion_intertrimestral.png)
+
+---
+
+### Impacto de la Pandemia (COVID-19)
+
+**Empleo durante la pandemia**
+Cambios en la tasa de empleo durante el período 2020–2021.
+
+![EmpleoPandemia](images/empleo_pandemia.png)
+
+**Desocupación durante la pandemia**
+Evolución de la tasa de desocupación en el mismo período.
+
+![DesocupaciónPandemia](images/desocupacion_pandemia.png)
 
 ## 🛠️ Tecnologías
 
