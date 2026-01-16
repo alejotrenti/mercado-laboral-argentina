@@ -104,6 +104,16 @@ Evolución de la tasa de desocupación en el mismo período.
 
 ![DesocupaciónPandemia](images/desocupacion_pandemia.png)
 
+## 📊 Dashboard Interactivo – Mercado Laboral Argentino (2017–2025) 
+
+**Análisis exploratorio del mercado laboral (EPH – INDEC)**
+Dashboard interactivo desarrollado en Power BI que presenta un análisis exploratorio (EDA) del mercado laboral argentino entre 2017 y 2025, a partir de datos oficiales de la Encuesta Permanente de Hogares (EPH) del INDEC. 
+El dashboard permite analizar la evolución temporal de los principales indicadores laborales —tasa de actividad, empleo, desocupación y subocupación—, incorporando comparaciones trimestrales e interanuales, así como un análisis del período pre y post pandemia.
+
+![MercadoLaboralPowerBi](images/mercado_dashboard.png)
+
+---
+
 ## 🛠️ Tecnologías
 
 * Python 3.8+
